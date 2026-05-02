@@ -16874,6 +16874,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18306737890",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 11,
+      "name": "Sofia",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18343909030",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32011,11 +32020,20 @@
           "distance": 4524.2,
           "elevation_gain": 32.9,
           "moving_time": 2721.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18343909030"
+          ],
+          "count": 1,
+          "distance": 3281.4,
+          "elevation_gain": 34.2,
+          "moving_time": 3201.0
         }
       }
     }
   },
-  "generated_at": "2026-05-01T18:17:05.712505+00:00",
+  "generated_at": "2026-05-02T17:33:48.585344+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
