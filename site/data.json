@@ -16883,6 +16883,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18343909030",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 11,
+      "name": "Mramor / Dragovishtitsa",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18356968205",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31754,6 +31763,15 @@
           "distance": 40152.9,
           "elevation_gain": 735.8,
           "moving_time": 8660.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18356968205"
+          ],
+          "count": 1,
+          "distance": 24891.3,
+          "elevation_gain": 395.0,
+          "moving_time": 4487.0
         }
       },
       "Run": {
@@ -32033,7 +32051,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T17:33:48.585344+00:00",
+  "generated_at": "2026-05-03T17:36:24.524127+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

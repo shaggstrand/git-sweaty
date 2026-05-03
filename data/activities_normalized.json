@@ -24386,5 +24386,18 @@
     "start_date_local": "2026-05-02T11:27:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 24891.3,
+    "elevation_gain": 395.0,
+    "id": "18356968205",
+    "moving_time": 4487.0,
+    "name": "Mramor / Dragovishtitsa",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T11:39:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
