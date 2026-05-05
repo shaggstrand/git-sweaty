@@ -16901,6 +16901,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18373269341",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 12,
+      "name": "Plana",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18386802630",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31790,6 +31799,15 @@
           "distance": 31937.6,
           "elevation_gain": 618.9,
           "moving_time": 8012.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18386802630"
+          ],
+          "count": 1,
+          "distance": 102128.0,
+          "elevation_gain": 1660.6,
+          "moving_time": 15701.0
         }
       },
       "Run": {
@@ -32069,7 +32087,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T20:07:08.855145+00:00",
+  "generated_at": "2026-05-05T20:00:44.405900+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

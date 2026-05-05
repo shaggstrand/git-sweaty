@@ -24412,5 +24412,18 @@
     "start_date_local": "2026-05-04T13:08:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 102128.0,
+    "elevation_gain": 1660.6,
+    "id": "18386802630",
+    "moving_time": 15701.0,
+    "name": "Plana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T12:12:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
