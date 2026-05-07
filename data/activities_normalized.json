@@ -24425,5 +24425,31 @@
     "start_date_local": "2026-05-05T12:12:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 13861.2,
+    "elevation_gain": 193.9,
+    "id": "18408435259",
+    "moving_time": 2830.0,
+    "name": "Sofia / Boyana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T08:44:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 14108.2,
+    "elevation_gain": 189.1,
+    "id": "18413859557",
+    "moving_time": 3439.0,
+    "name": "Sofia / Dragalevtsi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T17:25:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

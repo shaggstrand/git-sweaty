@@ -16910,6 +16910,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18386802630",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 8,
+      "name": "Sofia / Boyana",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18408435259",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 17,
+      "name": "Sofia / Dragalevtsi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18413859557",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31808,6 +31826,16 @@
           "distance": 102128.0,
           "elevation_gain": 1660.6,
           "moving_time": 15701.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18408435259",
+            "18413859557"
+          ],
+          "count": 2,
+          "distance": 27969.4,
+          "elevation_gain": 383.0,
+          "moving_time": 6269.0
         }
       },
       "Run": {
@@ -32087,7 +32115,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T20:15:16.910457+00:00",
+  "generated_at": "2026-05-07T20:07:01.719207+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
