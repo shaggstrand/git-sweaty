@@ -16955,6 +16955,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18440915776",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 14,
+      "name": "Giro",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18456511075",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 8,
+      "name": "Sofia / Dragalevtsi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18460206966",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 11,
+      "name": "Samokov",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18463609625",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 16,
+      "name": "Boyana",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18464566578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31241,6 +31277,15 @@
           "distance": 1334.1,
           "elevation_gain": 0.0,
           "moving_time": 1806.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18464566578"
+          ],
+          "count": 1,
+          "distance": 1215.2,
+          "elevation_gain": 35.8,
+          "moving_time": 1237.0
         }
       },
       "MountainBikeRide": {
@@ -31882,6 +31927,16 @@
           "distance": 13358.2,
           "elevation_gain": 65.3,
           "moving_time": 3618.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18460206966",
+            "18463609625"
+          ],
+          "count": 2,
+          "distance": 135657.5,
+          "elevation_gain": 912.3,
+          "moving_time": 17088.0
         }
       },
       "Run": {
@@ -32157,11 +32212,20 @@
           "distance": 3281.4,
           "elevation_gain": 34.2,
           "moving_time": 3201.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18456511075"
+          ],
+          "count": 1,
+          "distance": 15674.1,
+          "elevation_gain": 89.8,
+          "moving_time": 12086.0
         }
       }
     }
   },
-  "generated_at": "2026-05-10T18:06:47.899337+00:00",
+  "generated_at": "2026-05-11T20:57:16.737120+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

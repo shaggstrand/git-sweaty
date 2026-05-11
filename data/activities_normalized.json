@@ -24490,5 +24490,57 @@
     "start_date_local": "2026-05-09T17:07:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 15674.1,
+    "elevation_gain": 89.8,
+    "id": "18456511075",
+    "moving_time": 12086.0,
+    "name": "Giro",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-10T14:34:59Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 13817.5,
+    "elevation_gain": 193.0,
+    "id": "18460206966",
+    "moving_time": 3067.0,
+    "name": "Sofia / Dragalevtsi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T08:36:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 121840.0,
+    "elevation_gain": 719.3,
+    "id": "18463609625",
+    "moving_time": 14021.0,
+    "name": "Samokov",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T11:38:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 1215.2,
+    "elevation_gain": 35.8,
+    "id": "18464566578",
+    "moving_time": 1237.0,
+    "name": "Boyana",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-11T16:53:25Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
