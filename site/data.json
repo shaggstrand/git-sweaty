@@ -17000,6 +17000,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18480334448",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 8,
+      "name": "Sofia / Boyana",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18486880820",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31955,6 +31964,15 @@
           "distance": 11664.0,
           "elevation_gain": 49.0,
           "moving_time": 2734.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18486880820"
+          ],
+          "count": 1,
+          "distance": 13846.9,
+          "elevation_gain": 194.0,
+          "moving_time": 3250.0
         }
       },
       "Run": {
@@ -32243,7 +32261,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T20:53:43.407101+00:00",
+  "generated_at": "2026-05-13T21:09:52.545232+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

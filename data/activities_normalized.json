@@ -24555,5 +24555,18 @@
     "start_date_local": "2026-05-12T17:56:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 13846.9,
+    "elevation_gain": 194.0,
+    "id": "18486880820",
+    "moving_time": 3250.0,
+    "name": "Sofia / Boyana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T08:17:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
