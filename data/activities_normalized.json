@@ -24568,5 +24568,31 @@
     "start_date_local": "2026-05-13T08:17:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 13840.3,
+    "elevation_gain": 194.4,
+    "id": "18500193944",
+    "moving_time": 3296.0,
+    "name": "Sofia / Boyana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T08:07:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 127125.0,
+    "elevation_gain": 1494.5,
+    "id": "18505516890",
+    "moving_time": 18483.0,
+    "name": "Gorni okol",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T11:25:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
