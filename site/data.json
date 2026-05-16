@@ -17036,6 +17036,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18516551103",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 11,
+      "name": "Kladnitsa",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/18528602903",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31351,6 +31360,15 @@
           "distance": 31449.0,
           "elevation_gain": 843.5,
           "moving_time": 6813.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18528602903"
+          ],
+          "count": 1,
+          "distance": 50683.4,
+          "elevation_gain": 899.8,
+          "moving_time": 12254.0
         }
       },
       "Padel": {
@@ -32307,7 +32325,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T20:07:58.238574+00:00",
+  "generated_at": "2026-05-16T18:07:46.774242+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

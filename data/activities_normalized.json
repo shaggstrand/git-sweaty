@@ -24607,5 +24607,18 @@
     "start_date_local": "2026-05-15T13:29:54Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 50683.4,
+    "elevation_gain": 899.8,
+    "id": "18528602903",
+    "moving_time": 12254.0,
+    "name": "Kladnitsa",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-16T11:30:13Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
