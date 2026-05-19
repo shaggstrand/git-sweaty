@@ -24633,5 +24633,18 @@
     "start_date_local": "2026-05-18T16:17:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 13802.5,
+    "elevation_gain": 192.3,
+    "id": "18564431637",
+    "moving_time": 3346.0,
+    "name": "Sofia / Dragalevtsi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T08:45:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
