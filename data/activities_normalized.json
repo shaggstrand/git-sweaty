@@ -24646,5 +24646,31 @@
     "start_date_local": "2026-05-19T08:45:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 5070.3,
+    "elevation_gain": 69.7,
+    "id": "18590548965",
+    "moving_time": 5030.0,
+    "name": "Lozenets",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-20T17:38:22Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 19870.3,
+    "elevation_gain": 278.3,
+    "id": "18592520485",
+    "moving_time": 5434.0,
+    "name": "Lozenets / Tsarevo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T10:26:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
