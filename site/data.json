@@ -17081,6 +17081,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18592520485",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 12,
+      "name": "Lozenets",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18606785850",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 14,
+      "name": "Lozenets / Tsarevo",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18607969310",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32091,6 +32109,15 @@
           "distance": 19870.3,
           "elevation_gain": 278.3,
           "moving_time": 5434.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18607969310"
+          ],
+          "count": 1,
+          "distance": 25622.4,
+          "elevation_gain": 344.8,
+          "moving_time": 3942.0
         }
       },
       "Run": {
@@ -32393,11 +32420,20 @@
           "distance": 5070.3,
           "elevation_gain": 69.7,
           "moving_time": 5030.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18606785850"
+          ],
+          "count": 1,
+          "distance": 4670.0,
+          "elevation_gain": 55.7,
+          "moving_time": 3898.0
         }
       }
     }
   },
-  "generated_at": "2026-05-21T21:16:20.566669+00:00",
+  "generated_at": "2026-05-22T20:49:47.348618+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
