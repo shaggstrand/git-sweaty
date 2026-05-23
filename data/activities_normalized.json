@@ -24698,5 +24698,18 @@
     "start_date_local": "2026-05-22T14:23:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 2577.7,
+    "elevation_gain": 31.1,
+    "id": "18620809044",
+    "moving_time": 2178.0,
+    "name": "Lozenets",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T13:01:13Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
