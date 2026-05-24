@@ -24711,5 +24711,31 @@
     "start_date_local": "2026-05-23T13:01:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 2426.1,
+    "elevation_gain": 45.8,
+    "id": "18631110214",
+    "moving_time": 970.0,
+    "name": "Kalandzha 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T08:29:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 40385.1,
+    "elevation_gain": 666.9,
+    "id": "18631111477",
+    "moving_time": 9449.0,
+    "name": "Kalandzha 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T08:59:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
