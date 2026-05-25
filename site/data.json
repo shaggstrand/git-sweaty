@@ -17112,7 +17112,7 @@
     {
       "date": "2026-05-24",
       "hour": 8,
-      "name": "Kalandzha 2026",
+      "name": "Morning Ride",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18631110214",
@@ -17125,6 +17125,33 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18631111477",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 17,
+      "name": "Lozenets",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18642717919",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18643052141",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 18,
+      "name": "Dinner ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18650945449",
       "year": 2026
     }
   ],
@@ -32155,6 +32182,16 @@
           "distance": 42811.2,
           "elevation_gain": 712.6999999999999,
           "moving_time": 10419.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18643052141",
+            "18650945449"
+          ],
+          "count": 2,
+          "distance": 23576.699999999997,
+          "elevation_gain": 318.3,
+          "moving_time": 6297.0
         }
       },
       "Run": {
@@ -32475,11 +32512,20 @@
           "distance": 2577.7,
           "elevation_gain": 31.1,
           "moving_time": 2178.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18642717919"
+          ],
+          "count": 1,
+          "distance": 3782.7,
+          "elevation_gain": 45.2,
+          "moving_time": 3306.0
         }
       }
     }
   },
-  "generated_at": "2026-05-24T18:14:45.657080+00:00",
+  "generated_at": "2026-05-25T20:16:12.550532+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
