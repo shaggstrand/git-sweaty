@@ -24776,5 +24776,18 @@
     "start_date_local": "2026-05-25T18:04:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 57473.3,
+    "elevation_gain": 1022.7,
+    "id": "18660856985",
+    "moving_time": 9720.0,
+    "name": "Fazanovo / Brodilovo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T09:50:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
