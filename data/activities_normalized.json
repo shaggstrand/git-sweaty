@@ -24789,5 +24789,18 @@
     "start_date_local": "2026-05-26T09:50:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 45533.5,
+    "elevation_gain": 649.1,
+    "id": "18675398740",
+    "moving_time": 8044.0,
+    "name": "Pismenovo",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-27T14:26:13Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
