@@ -24802,5 +24802,18 @@
     "start_date_local": "2026-05-27T14:26:13Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 43177.9,
+    "elevation_gain": 1018.5,
+    "id": "18729712994",
+    "moving_time": 8500.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T14:26:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
