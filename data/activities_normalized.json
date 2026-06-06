@@ -24861,11 +24861,37 @@
     "elevation_gain": 134.4,
     "id": "18797692770",
     "moving_time": 2449.0,
-    "name": "Saltsj\u00f6-Boo",
+    "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-05T13:06:57Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 2256.2,
+    "elevation_gain": 26.5,
+    "id": "18808018132",
+    "moving_time": 1551.0,
+    "name": "Saltsj\u00f6-Boo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-06T12:20:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 4096.0,
+    "elevation_gain": 66.3,
+    "id": "18808018219",
+    "moving_time": 2898.0,
+    "name": "Saltsj\u00f6-Boo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-06T08:44:39Z",
+    "type": "Walk",
     "year": 2026
   }
 ]

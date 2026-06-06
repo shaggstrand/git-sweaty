@@ -17211,10 +17211,28 @@
     {
       "date": "2026-06-05",
       "hour": 13,
-      "name": "Saltsj\u00f6-Boo",
+      "name": "Afternoon Ride",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18797692770",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 12,
+      "name": "Saltsj\u00f6-Boo",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18808018132",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "name": "Saltsj\u00f6-Boo",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18808018219",
       "year": 2026
     }
   ],
@@ -32639,11 +32657,21 @@
           "distance": 7596.7,
           "elevation_gain": 67.5,
           "moving_time": 6037.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18808018132",
+            "18808018219"
+          ],
+          "count": 2,
+          "distance": 6352.2,
+          "elevation_gain": 92.8,
+          "moving_time": 4449.0
         }
       }
     }
   },
-  "generated_at": "2026-06-05T17:22:58.663917+00:00",
+  "generated_at": "2026-06-06T16:13:56.948044+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
