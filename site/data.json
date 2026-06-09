@@ -17234,6 +17234,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18808018219",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 10,
+      "name": "Morning E-Bike Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18848211852",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31493,6 +31502,17 @@
       }
     },
     "2026": {
+      "EBikeRide": {
+        "2026-06-09": {
+          "activity_ids": [
+            "18848211852"
+          ],
+          "count": 1,
+          "distance": 16956.3,
+          "elevation_gain": 184.9,
+          "moving_time": 4101.0
+        }
+      },
       "Hike": {
         "2026-01-11": {
           "activity_ids": [
@@ -32671,7 +32691,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T18:05:39.616356+00:00",
+  "generated_at": "2026-06-09T17:27:39.204099+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
