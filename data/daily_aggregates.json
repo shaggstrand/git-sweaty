@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T18:08:21.494816+00:00",
+  "generated_at": "2026-06-11T18:22:58.866446+00:00",
   "years": {
     "2020": {
       "Ride": {
@@ -14266,6 +14266,15 @@
           "distance": 16956.3,
           "elevation_gain": 184.9,
           "moving_time": 4101.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18868044127"
+          ],
+          "count": 1,
+          "distance": 47847.3,
+          "elevation_gain": 569.0,
+          "moving_time": 10030.0
         }
       },
       "Hike": {
@@ -15094,15 +15103,6 @@
           "distance": 10869.8,
           "elevation_gain": 134.4,
           "moving_time": 2449.0
-        },
-        "2026-06-10": {
-          "activity_ids": [
-            "18868044127"
-          ],
-          "count": 1,
-          "distance": 47847.3,
-          "elevation_gain": 569.0,
-          "moving_time": 10030.0
         }
       },
       "Run": {
@@ -15114,6 +15114,15 @@
           "distance": 11186.1,
           "elevation_gain": 58.2,
           "moving_time": 4080.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878239155"
+          ],
+          "count": 1,
+          "distance": 17104.7,
+          "elevation_gain": 186.5,
+          "moving_time": 6204.0
         }
       },
       "Snowboard": {

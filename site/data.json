@@ -17247,10 +17247,19 @@
     {
       "date": "2026-06-10",
       "hour": 8,
-      "name": "V\u00e4rmd\u00f6 / Saltsj\u00f6-Boo",
-      "subtype": "Ride",
-      "type": "Ride",
+      "name": "Morning Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
       "url": "https://www.strava.com/activities/18868044127",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18878239155",
       "year": 2026
     }
   ],
@@ -31520,6 +31529,15 @@
           "distance": 16956.3,
           "elevation_gain": 184.9,
           "moving_time": 4101.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18868044127"
+          ],
+          "count": 1,
+          "distance": 47847.3,
+          "elevation_gain": 569.0,
+          "moving_time": 10030.0
         }
       },
       "Hike": {
@@ -32348,15 +32366,6 @@
           "distance": 10869.8,
           "elevation_gain": 134.4,
           "moving_time": 2449.0
-        },
-        "2026-06-10": {
-          "activity_ids": [
-            "18868044127"
-          ],
-          "count": 1,
-          "distance": 47847.3,
-          "elevation_gain": 569.0,
-          "moving_time": 10030.0
         }
       },
       "Run": {
@@ -32368,6 +32377,15 @@
           "distance": 11186.1,
           "elevation_gain": 58.2,
           "moving_time": 4080.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878239155"
+          ],
+          "count": 1,
+          "distance": 17104.7,
+          "elevation_gain": 186.5,
+          "moving_time": 6204.0
         }
       },
       "Snowboard": {
@@ -32709,7 +32727,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T18:08:21.520194+00:00",
+  "generated_at": "2026-06-11T18:22:58.891547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
