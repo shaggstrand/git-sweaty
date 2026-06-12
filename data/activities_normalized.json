@@ -24932,5 +24932,18 @@
     "start_date_local": "2026-06-11T13:25:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 4934.5,
+    "elevation_gain": 64.5,
+    "id": "18890583918",
+    "moving_time": 1104.0,
+    "name": "Saltsj\u00f6-Boo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T11:14:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

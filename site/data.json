@@ -17261,6 +17261,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18878239155",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 11,
+      "name": "Saltsj\u00f6-Boo",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18890583918",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32366,6 +32375,15 @@
           "distance": 10869.8,
           "elevation_gain": 134.4,
           "moving_time": 2449.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18890583918"
+          ],
+          "count": 1,
+          "distance": 4934.5,
+          "elevation_gain": 64.5,
+          "moving_time": 1104.0
         }
       },
       "Run": {
@@ -32727,7 +32745,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:22:58.891547+00:00",
+  "generated_at": "2026-06-12T17:40:38.290057+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
