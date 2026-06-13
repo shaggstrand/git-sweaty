@@ -24940,10 +24940,23 @@
     "id": "18890583918",
     "moving_time": 1104.0,
     "name": "Saltsj\u00f6-Boo",
-    "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
     "start_date_local": "2026-06-12T11:14:28Z",
-    "type": "Ride",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 11779.9,
+    "elevation_gain": 160.6,
+    "id": "18899885307",
+    "moving_time": 2983.0,
+    "name": "Morning E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-13T09:08:32Z",
+    "type": "EBikeRide",
     "year": 2026
   }
 ]

@@ -17266,9 +17266,18 @@
       "date": "2026-06-12",
       "hour": 11,
       "name": "Saltsj\u00f6-Boo",
-      "subtype": "Ride",
-      "type": "Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
       "url": "https://www.strava.com/activities/18890583918",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 9,
+      "name": "Morning E-Bike Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18899885307",
       "year": 2026
     }
   ],
@@ -31547,6 +31556,24 @@
           "distance": 47847.3,
           "elevation_gain": 569.0,
           "moving_time": 10030.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18890583918"
+          ],
+          "count": 1,
+          "distance": 4934.5,
+          "elevation_gain": 64.5,
+          "moving_time": 1104.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18899885307"
+          ],
+          "count": 1,
+          "distance": 11779.9,
+          "elevation_gain": 160.6,
+          "moving_time": 2983.0
         }
       },
       "Hike": {
@@ -32375,15 +32402,6 @@
           "distance": 10869.8,
           "elevation_gain": 134.4,
           "moving_time": 2449.0
-        },
-        "2026-06-12": {
-          "activity_ids": [
-            "18890583918"
-          ],
-          "count": 1,
-          "distance": 4934.5,
-          "elevation_gain": 64.5,
-          "moving_time": 1104.0
         }
       },
       "Run": {
@@ -32745,7 +32763,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T17:40:38.290057+00:00",
+  "generated_at": "2026-06-13T16:21:58.706693+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
