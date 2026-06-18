@@ -24958,5 +24958,31 @@
     "start_date_local": "2026-06-13T09:08:32Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 16851.4,
+    "elevation_gain": 189.6,
+    "id": "18971453052",
+    "moving_time": 2817.0,
+    "name": "Saltsj\u00f6-Boo / V\u00e4rmd\u00f6",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-14T16:27:21Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 12939.3,
+    "elevation_gain": 241.9,
+    "id": "18972421036",
+    "moving_time": 3193.0,
+    "name": "Sofia",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T16:50:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
