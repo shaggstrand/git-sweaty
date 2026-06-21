@@ -25023,5 +25023,18 @@
     "start_date_local": "2026-06-19T17:38:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 10049.6,
+    "elevation_gain": 39.7,
+    "id": "19011979035",
+    "moving_time": 2895.0,
+    "name": "Sofia",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T17:15:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
