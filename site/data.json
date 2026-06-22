@@ -17333,6 +17333,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19011979035",
       "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 8,
+      "name": "Sofia / Dragalevtsi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19018783107",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19019955081",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 17,
+      "name": "Sofia / Dragalevtsi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19023927411",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32494,6 +32521,17 @@
           "distance": 10049.6,
           "elevation_gain": 39.7,
           "moving_time": 2895.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19018783107",
+            "19019955081",
+            "19023927411"
+          ],
+          "count": 3,
+          "distance": 67018.4,
+          "elevation_gain": 1314.1000000000001,
+          "moving_time": 12400.0
         }
       },
       "Run": {
@@ -32855,7 +32893,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:50:38.235165+00:00",
+  "generated_at": "2026-06-22T18:51:47.066927+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",
