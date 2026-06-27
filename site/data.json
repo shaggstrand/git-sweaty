@@ -17414,6 +17414,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19063344949",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 5,
+      "name": "Wu",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19082438744",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 5,
+      "name": "Vitosha 100",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/19082439748",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31794,6 +31812,15 @@
           "distance": 45533.5,
           "elevation_gain": 649.1,
           "moving_time": 8044.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19082439748"
+          ],
+          "count": 1,
+          "distance": 98268.0,
+          "elevation_gain": 1904.5,
+          "moving_time": 19321.0
         }
       },
       "Padel": {
@@ -32616,6 +32643,15 @@
           "distance": 46426.2,
           "elevation_gain": 515.0,
           "moving_time": 9800.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19082438744"
+          ],
+          "count": 1,
+          "distance": 6951.0,
+          "elevation_gain": 121.4,
+          "moving_time": 2147.0
         }
       },
       "Run": {
@@ -32977,7 +33013,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T17:04:58.706977+00:00",
+  "generated_at": "2026-06-27T16:13:30.645514+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66192195",
   "repo": "shaggstrand/git-sweaty",

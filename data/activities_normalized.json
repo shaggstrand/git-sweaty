@@ -25153,5 +25153,31 @@
     "start_date_local": "2026-06-25T16:51:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 6951.0,
+    "elevation_gain": 121.4,
+    "id": "19082438744",
+    "moving_time": 2147.0,
+    "name": "Wu",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T05:10:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 98268.0,
+    "elevation_gain": 1904.5,
+    "id": "19082439748",
+    "moving_time": 19321.0,
+    "name": "Vitosha 100",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-27T05:59:25Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
