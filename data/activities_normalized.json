@@ -25179,5 +25179,18 @@
     "start_date_local": "2026-06-27T05:59:25Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 7613.2,
+    "elevation_gain": 89.5,
+    "id": "19114649791",
+    "moving_time": 2380.0,
+    "name": "Lozenets",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T20:05:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
